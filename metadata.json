@@ -1,0 +1,5 @@
+{
+  "name": "India Electricity Dashboard",
+  "description": "Interactive dashboard for analyzing electricity consumption in India from CSV data.",
+  "requestFramePermissions": []
+}
